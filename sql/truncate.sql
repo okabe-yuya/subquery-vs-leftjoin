@@ -1,0 +1,1 @@
+TRUNCATE TABLE users, posts, user_posts RESTART IDENTITY;
